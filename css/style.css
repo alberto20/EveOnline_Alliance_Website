@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#00cc00;
+  background-color:#046307;
 }
 
 /* Global */
@@ -28,7 +28,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
+  background:#046307;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -36,7 +36,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#046307;
   color:#00cc00;
   padding-top:30px;
   min-height:70px;
